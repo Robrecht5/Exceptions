@@ -12,7 +12,7 @@
         <TextBox x:Name="txtGetal1" HorizontalAlignment="Left" Height="23" Margin="15,48,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="99" HorizontalContentAlignment="Right"/>
         <TextBox x:Name="txtGetal2" HorizontalAlignment="Left" Height="23" Margin="150,47,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="99" HorizontalContentAlignment="Right"/>
         <Button x:Name="btnDeel" Content="/" HorizontalAlignment="Left" Margin="121,31,0,0" VerticalAlignment="Top" Width="25" Height="23" Click="btnDeel_Click"/>
-        <Label x:Name="lblResultaat" Content="Resultaat" HorizontalAlignment="Left" Margin="271,47,0,0" VerticalAlignment="Top" Width="123" Height="23" Padding="5,2,5,5"/>
+        <Label x:Name="lblResultaat" Content="Resultaat" HorizontalAlignment="Left" Margin="271,47,0,0" VerticalAlignment="Top" Width="66" Height="23" Padding="5,2,5,5"/>
         <TextBlock x:Name="tbErrors" HorizontalAlignment="Left" Margin="18,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="86" Width="318" Foreground="#FFF30909" FontWeight="Bold"/>
         <Button x:Name="btnTelOp" Content="+" HorizontalAlignment="Left" Margin="121,59,0,0" VerticalAlignment="Top" Width="25" Height="23" Click="btnTelOp_Click" RenderTransformOrigin="0.429,-0.044"/>
 
